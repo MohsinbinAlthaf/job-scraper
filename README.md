@@ -341,10 +341,6 @@ git push origin feature/your-feature-name
 
 ## 📄 License
 
-MIT © [Mohsin](https://github.com/YOUR_USERNAME)
+MIT © [Mohsin](https://github.com/MohsinbinAlthaf)
 
 ---
-
-<div align="center">
-  <sub>Built with ❤️ as part of an Opportunity Intelligence Platform</sub>
-</div>
